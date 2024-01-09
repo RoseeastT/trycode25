@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://bigbos4d.getprooph.org/sitemap.xml
+Sitemap : http://mposlot77.pw.simlab.org/sitemap.xml
